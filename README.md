@@ -10,4 +10,4 @@ The model was trained on Davis dataset.
 
 Code please see att_GAT.ipynb
 
-Description about this project will come later
+
